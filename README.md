@@ -1,6 +1,6 @@
 # The Outguessing Machine
 
-Im William Poundstone’s [“How to Predict the Unpredictable"](https://www.goodreads.com/en/book/show/21049067-how-to-predict-the-unpredictable) he introduces us to Dave Hagelberger's "outguessing machine", a machine that played a version of a penny guessing game against an opponent and tried to predict human choices.
+In William Poundstone’s [“How to Predict the Unpredictable"](https://www.goodreads.com/en/book/show/21049067-how-to-predict-the-unpredictable) he introduces us to Dave Hagelberger's "outguessing machine", a machine that played a version of a penny guessing game against an opponent and tried to predict human choices.
 
 Claude Shannon built his own version. And according to Poundstone:
 
